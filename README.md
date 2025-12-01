@@ -95,7 +95,7 @@ Shows monthly productivity curve:
 
 **Employee Analysis:**
 
-![Employee Analysis](Employee_Analysis.png).
+![Employee Analysis](Employee_Analysi.png).
 
 ---
 
