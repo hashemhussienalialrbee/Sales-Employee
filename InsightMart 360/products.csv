@@ -1,0 +1,1001 @@
+ProductID,ProductName,Category,Price
+1,Printer_1,Electronics,697.71
+2,Camera_2,Electronics,1933.5
+3,Headphones_3,Electronics,1873.48
+4,Camera_4,Electronics,208.37
+5,Smartphone_5,Electronics,932.84
+6,Laptop_6,Electronics,1205.54
+7,Camera_7,Electronics,729.65
+8,Laptop_8,Electronics,1645.3
+9,Tablet_9,Electronics,1777.0
+10,Printer_10,Electronics,1628.1
+11,Tablet_11,Electronics,1449.55
+12,Headphones_12,Electronics,1213.7
+13,Printer_13,Electronics,637.89
+14,Tablet_14,Electronics,1930.23
+15,Headphones_15,Electronics,1426.87
+16,Camera_16,Electronics,1751.64
+17,Headphones_17,Electronics,409.28
+18,Laptop_18,Electronics,888.81
+19,Printer_19,Electronics,1989.56
+20,Monitor_20,Electronics,1462.12
+21,Printer_21,Electronics,768.32
+22,Tablet_22,Electronics,1129.71
+23,Laptop_23,Electronics,1461.47
+24,Tablet_24,Electronics,646.86
+25,Laptop_25,Electronics,918.08
+26,Monitor_26,Electronics,1677.93
+27,Laptop_27,Electronics,1198.19
+28,Smartphone_28,Electronics,1057.8
+29,Tablet_29,Electronics,593.42
+30,Camera_30,Electronics,684.34
+31,Monitor_31,Electronics,1429.59
+32,Smartphone_32,Electronics,1098.2
+33,Smartphone_33,Electronics,622.75
+34,Smartphone_34,Electronics,1770.94
+35,Smartphone_35,Electronics,612.57
+36,Printer_36,Electronics,649.45
+37,Camera_37,Electronics,840.85
+38,Printer_38,Electronics,392.04
+39,Laptop_39,Electronics,1416.46
+40,Monitor_40,Electronics,1086.8
+41,Laptop_41,Electronics,1575.64
+42,Camera_42,Electronics,1924.39
+43,Printer_43,Electronics,1068.13
+44,Camera_44,Electronics,767.75
+45,Camera_45,Electronics,1763.78
+46,Headphones_46,Electronics,529.17
+47,Printer_47,Electronics,1848.81
+48,Tablet_48,Electronics,916.18
+49,Printer_49,Electronics,1238.0
+50,Laptop_50,Electronics,1146.32
+51,Headphones_51,Electronics,1060.98
+52,Camera_52,Electronics,258.61
+53,Tablet_53,Electronics,908.69
+54,Monitor_54,Electronics,1596.63
+55,Headphones_55,Electronics,1957.71
+56,Monitor_56,Electronics,1132.77
+57,Tablet_57,Electronics,1440.58
+58,Laptop_58,Electronics,1413.39
+59,Headphones_59,Electronics,1245.81
+60,Tablet_60,Electronics,850.88
+61,Printer_61,Electronics,667.46
+62,Camera_62,Electronics,673.13
+63,Tablet_63,Electronics,1048.42
+64,Camera_64,Electronics,817.57
+65,Smartphone_65,Electronics,1097.79
+66,Smartphone_66,Electronics,954.37
+67,Printer_67,Electronics,870.16
+68,Printer_68,Electronics,921.07
+69,Headphones_69,Electronics,523.8
+70,Smartphone_70,Electronics,1962.69
+71,Monitor_71,Electronics,611.42
+72,Laptop_72,Electronics,1497.47
+73,Printer_73,Electronics,624.45
+74,Headphones_74,Electronics,1741.36
+75,Smartphone_75,Electronics,462.52
+76,Monitor_76,Electronics,469.19
+77,Printer_77,Electronics,217.54
+78,Headphones_78,Electronics,1099.28
+79,Printer_79,Electronics,1335.17
+80,Camera_80,Electronics,1497.01
+81,Printer_81,Electronics,1075.92
+82,Tablet_82,Electronics,1211.85
+83,Camera_83,Electronics,285.88
+84,Laptop_84,Electronics,1442.98
+85,Laptop_85,Electronics,587.84
+86,Tablet_86,Electronics,1057.77
+87,Monitor_87,Electronics,373.34
+88,Monitor_88,Electronics,802.38
+89,Tablet_89,Electronics,848.55
+90,Camera_90,Electronics,1877.32
+91,Tablet_91,Electronics,819.45
+92,Headphones_92,Electronics,418.23
+93,Printer_93,Electronics,1423.25
+94,Camera_94,Electronics,558.12
+95,Camera_95,Electronics,1369.76
+96,Camera_96,Electronics,514.17
+97,Printer_97,Electronics,712.3
+98,Tablet_98,Electronics,1411.75
+99,Headphones_99,Electronics,1594.54
+100,Headphones_100,Electronics,1801.34
+101,Headphones_101,Electronics,1304.59
+102,Headphones_102,Electronics,1337.08
+103,Smartphone_103,Electronics,1762.86
+104,Monitor_104,Electronics,1653.89
+105,Tablet_105,Electronics,959.27
+106,Camera_106,Electronics,1228.95
+107,Printer_107,Electronics,1832.73
+108,Laptop_108,Electronics,491.6
+109,Smartphone_109,Electronics,764.27
+110,Monitor_110,Electronics,724.44
+111,Tablet_111,Electronics,1289.69
+112,Headphones_112,Electronics,688.25
+113,Headphones_113,Electronics,1605.75
+114,Tablet_114,Electronics,1546.21
+115,Camera_115,Electronics,1937.95
+116,Headphones_116,Electronics,501.17
+117,Printer_117,Electronics,241.58
+118,Monitor_118,Electronics,622.33
+119,Tablet_119,Electronics,1892.79
+120,Monitor_120,Electronics,1549.53
+121,Smartphone_121,Electronics,500.44
+122,Laptop_122,Electronics,372.0
+123,Headphones_123,Electronics,1187.18
+124,Laptop_124,Electronics,1587.68
+125,Camera_125,Electronics,1576.99
+126,Laptop_126,Electronics,387.07
+127,Camera_127,Electronics,479.49
+128,Monitor_128,Electronics,1876.86
+129,Headphones_129,Electronics,756.87
+130,Smartphone_130,Electronics,1527.67
+131,Headphones_131,Electronics,1327.67
+132,Smartphone_132,Electronics,1148.14
+133,Smartphone_133,Electronics,251.43
+134,Monitor_134,Electronics,842.31
+135,Tablet_135,Electronics,1755.63
+136,Headphones_136,Electronics,1954.97
+137,Camera_137,Electronics,1882.74
+138,Camera_138,Electronics,1000.72
+139,Monitor_139,Electronics,1170.72
+140,Camera_140,Electronics,1275.65
+141,Monitor_141,Electronics,1548.04
+142,Camera_142,Electronics,982.96
+143,Monitor_143,Electronics,1351.15
+144,Tablet_144,Electronics,1836.06
+145,Headphones_145,Electronics,1171.4
+146,Printer_146,Electronics,361.2
+147,Tablet_147,Electronics,858.41
+148,Tablet_148,Electronics,480.29
+149,Laptop_149,Electronics,200.17
+150,Printer_150,Electronics,1564.93
+151,Smartphone_151,Electronics,818.99
+152,Headphones_152,Electronics,1163.18
+153,Monitor_153,Electronics,1859.76
+154,Printer_154,Electronics,1058.72
+155,Laptop_155,Electronics,1578.56
+156,Printer_156,Electronics,727.26
+157,Smartphone_157,Electronics,1634.18
+158,Camera_158,Electronics,872.56
+159,Headphones_159,Electronics,1787.89
+160,Headphones_160,Electronics,910.55
+161,Smartphone_161,Electronics,1486.89
+162,Monitor_162,Electronics,901.5
+163,Headphones_163,Electronics,597.07
+164,Laptop_164,Electronics,960.03
+165,Smartphone_165,Electronics,1129.9
+166,Printer_166,Electronics,1837.92
+167,Printer_167,Electronics,1449.06
+168,Tablet_168,Electronics,712.42
+169,Monitor_169,Electronics,1157.5
+170,Tablet_170,Electronics,943.23
+171,Printer_171,Electronics,323.24
+172,Smartphone_172,Electronics,721.27
+173,Monitor_173,Electronics,1019.62
+174,Headphones_174,Electronics,689.84
+175,Camera_175,Electronics,1085.59
+176,Tablet_176,Electronics,234.91
+177,Laptop_177,Electronics,1945.49
+178,Laptop_178,Electronics,534.69
+179,Laptop_179,Electronics,707.81
+180,Smartphone_180,Electronics,1487.35
+181,Monitor_181,Electronics,214.77
+182,Laptop_182,Electronics,471.23
+183,Headphones_183,Electronics,590.94
+184,Headphones_184,Electronics,760.84
+185,Printer_185,Electronics,1097.11
+186,Tablet_186,Electronics,1034.63
+187,Printer_187,Electronics,257.13
+188,Laptop_188,Electronics,1718.38
+189,Smartphone_189,Electronics,300.87
+190,Printer_190,Electronics,906.36
+191,Camera_191,Electronics,1046.26
+192,Smartphone_192,Electronics,1812.26
+193,Tablet_193,Electronics,1671.05
+194,Printer_194,Electronics,222.71
+195,Printer_195,Electronics,1486.43
+196,Headphones_196,Electronics,1588.21
+197,Headphones_197,Electronics,644.89
+198,Laptop_198,Electronics,558.52
+199,Monitor_199,Electronics,1587.79
+200,Camera_200,Electronics,1398.81
+201,Jeans_201,Clothing,105.11
+202,Scarf_202,Clothing,193.02
+203,Jacket_203,Clothing,48.55
+204,Scarf_204,Clothing,27.59
+205,Shoes_205,Clothing,113.77
+206,Jacket_206,Clothing,106.62
+207,Jacket_207,Clothing,55.77
+208,T-Shirt_208,Clothing,175.46
+209,Jeans_209,Clothing,195.19
+210,Jeans_210,Clothing,133.92
+211,Jacket_211,Clothing,22.71
+212,Jacket_212,Clothing,125.25
+213,Dress_213,Clothing,162.05
+214,T-Shirt_214,Clothing,194.39
+215,Shoes_215,Clothing,161.03
+216,Dress_216,Clothing,143.91
+217,Jeans_217,Clothing,86.85
+218,T-Shirt_218,Clothing,64.77
+219,Dress_219,Clothing,36.45
+220,Shoes_220,Clothing,80.92
+221,Scarf_221,Clothing,30.81
+222,Jacket_222,Clothing,136.02
+223,Scarf_223,Clothing,116.54
+224,T-Shirt_224,Clothing,42.65
+225,Jeans_225,Clothing,77.01
+226,Shoes_226,Clothing,161.94
+227,Jacket_227,Clothing,164.99
+228,Dress_228,Clothing,151.97
+229,T-Shirt_229,Clothing,144.06
+230,Jacket_230,Clothing,150.39
+231,Jacket_231,Clothing,181.76
+232,Dress_232,Clothing,147.19
+233,Shoes_233,Clothing,73.05
+234,Scarf_234,Clothing,108.22
+235,Shoes_235,Clothing,53.59
+236,Jacket_236,Clothing,78.26
+237,Dress_237,Clothing,69.56
+238,Shoes_238,Clothing,184.61
+239,Shoes_239,Clothing,48.86
+240,Shoes_240,Clothing,47.9
+241,Jacket_241,Clothing,167.5
+242,Shoes_242,Clothing,86.08
+243,T-Shirt_243,Clothing,159.67
+244,Shoes_244,Clothing,88.23
+245,Jeans_245,Clothing,178.93
+246,Shoes_246,Clothing,174.23
+247,Shoes_247,Clothing,62.98
+248,Scarf_248,Clothing,31.4
+249,Shoes_249,Clothing,167.43
+250,Jeans_250,Clothing,114.33
+251,Dress_251,Clothing,157.83
+252,Jeans_252,Clothing,130.35
+253,Jacket_253,Clothing,93.76
+254,Jacket_254,Clothing,39.88
+255,Shoes_255,Clothing,138.6
+256,T-Shirt_256,Clothing,170.33
+257,Jeans_257,Clothing,52.15
+258,T-Shirt_258,Clothing,56.37
+259,Dress_259,Clothing,54.49
+260,T-Shirt_260,Clothing,122.78
+261,Dress_261,Clothing,138.43
+262,Shoes_262,Clothing,132.31
+263,Shoes_263,Clothing,66.07
+264,Jacket_264,Clothing,59.73
+265,Scarf_265,Clothing,32.76
+266,Jeans_266,Clothing,138.03
+267,T-Shirt_267,Clothing,104.25
+268,Scarf_268,Clothing,30.93
+269,Shoes_269,Clothing,153.83
+270,Dress_270,Clothing,167.96
+271,Scarf_271,Clothing,30.49
+272,Shoes_272,Clothing,67.85
+273,T-Shirt_273,Clothing,152.17
+274,Jacket_274,Clothing,34.03
+275,Jeans_275,Clothing,192.91
+276,T-Shirt_276,Clothing,38.22
+277,Jeans_277,Clothing,115.7
+278,Jeans_278,Clothing,54.76
+279,Scarf_279,Clothing,64.78
+280,Scarf_280,Clothing,190.55
+281,Shoes_281,Clothing,154.85
+282,Dress_282,Clothing,154.3
+283,Scarf_283,Clothing,123.78
+284,Scarf_284,Clothing,102.57
+285,Scarf_285,Clothing,96.87
+286,T-Shirt_286,Clothing,50.03
+287,Jeans_287,Clothing,118.99
+288,Shoes_288,Clothing,80.75
+289,Jeans_289,Clothing,116.1
+290,Shoes_290,Clothing,99.74
+291,Jacket_291,Clothing,182.45
+292,Shoes_292,Clothing,198.46
+293,Jacket_293,Clothing,172.07
+294,Dress_294,Clothing,157.55
+295,Dress_295,Clothing,168.71
+296,Jacket_296,Clothing,129.51
+297,Shoes_297,Clothing,118.21
+298,Dress_298,Clothing,157.83
+299,Scarf_299,Clothing,65.74
+300,Dress_300,Clothing,100.55
+301,Dress_301,Clothing,20.04
+302,T-Shirt_302,Clothing,196.93
+303,Shoes_303,Clothing,22.93
+304,Jeans_304,Clothing,198.81
+305,Jacket_305,Clothing,21.18
+306,Jeans_306,Clothing,58.67
+307,Jacket_307,Clothing,23.91
+308,Scarf_308,Clothing,168.02
+309,Shoes_309,Clothing,112.03
+310,Shoes_310,Clothing,186.67
+311,Jeans_311,Clothing,36.97
+312,Dress_312,Clothing,84.02
+313,Jeans_313,Clothing,67.7
+314,Shoes_314,Clothing,64.97
+315,Jacket_315,Clothing,165.99
+316,T-Shirt_316,Clothing,122.69
+317,Shoes_317,Clothing,185.22
+318,Scarf_318,Clothing,33.9
+319,Jacket_319,Clothing,162.72
+320,Jeans_320,Clothing,107.89
+321,Scarf_321,Clothing,146.51
+322,T-Shirt_322,Clothing,127.14
+323,Jacket_323,Clothing,26.73
+324,Shoes_324,Clothing,88.68
+325,T-Shirt_325,Clothing,185.94
+326,Jacket_326,Clothing,82.63
+327,Dress_327,Clothing,94.97
+328,T-Shirt_328,Clothing,176.56
+329,Jeans_329,Clothing,154.58
+330,Shoes_330,Clothing,187.16
+331,Scarf_331,Clothing,159.94
+332,Dress_332,Clothing,29.74
+333,Shoes_333,Clothing,27.41
+334,Shoes_334,Clothing,121.68
+335,Jacket_335,Clothing,110.43
+336,Jeans_336,Clothing,47.58
+337,Scarf_337,Clothing,151.68
+338,Dress_338,Clothing,194.79
+339,Shoes_339,Clothing,123.55
+340,T-Shirt_340,Clothing,59.98
+341,Jacket_341,Clothing,161.55
+342,Jeans_342,Clothing,43.79
+343,T-Shirt_343,Clothing,105.65
+344,Scarf_344,Clothing,28.88
+345,Dress_345,Clothing,67.26
+346,Dress_346,Clothing,110.33
+347,Scarf_347,Clothing,43.47
+348,Jeans_348,Clothing,106.57
+349,Jeans_349,Clothing,107.81
+350,Scarf_350,Clothing,122.84
+351,Shoes_351,Clothing,130.88
+352,Scarf_352,Clothing,114.36
+353,Jeans_353,Clothing,32.9
+354,Dress_354,Clothing,78.21
+355,Shoes_355,Clothing,36.13
+356,Scarf_356,Clothing,94.44
+357,Jacket_357,Clothing,82.7
+358,Jacket_358,Clothing,82.01
+359,Scarf_359,Clothing,24.36
+360,Jacket_360,Clothing,50.47
+361,Jacket_361,Clothing,130.92
+362,Dress_362,Clothing,132.17
+363,Dress_363,Clothing,28.08
+364,Jeans_364,Clothing,55.94
+365,Jacket_365,Clothing,48.08
+366,Scarf_366,Clothing,173.5
+367,T-Shirt_367,Clothing,153.12
+368,Jeans_368,Clothing,190.81
+369,Jeans_369,Clothing,176.38
+370,Jacket_370,Clothing,22.47
+371,Scarf_371,Clothing,164.77
+372,Jacket_372,Clothing,101.01
+373,T-Shirt_373,Clothing,79.74
+374,Scarf_374,Clothing,116.84
+375,Jeans_375,Clothing,118.36
+376,Jacket_376,Clothing,118.78
+377,Shoes_377,Clothing,151.39
+378,Jeans_378,Clothing,145.11
+379,Scarf_379,Clothing,23.31
+380,Shoes_380,Clothing,183.09
+381,Shoes_381,Clothing,27.83
+382,Jeans_382,Clothing,30.82
+383,Jeans_383,Clothing,162.05
+384,Shoes_384,Clothing,68.83
+385,Dress_385,Clothing,137.86
+386,T-Shirt_386,Clothing,31.99
+387,Scarf_387,Clothing,68.84
+388,Scarf_388,Clothing,84.84
+389,T-Shirt_389,Clothing,23.43
+390,Scarf_390,Clothing,89.57
+391,Dress_391,Clothing,111.54
+392,Scarf_392,Clothing,37.93
+393,Jacket_393,Clothing,107.24
+394,Shoes_394,Clothing,115.68
+395,Jeans_395,Clothing,55.8
+396,Dress_396,Clothing,120.92
+397,Scarf_397,Clothing,23.87
+398,Jeans_398,Clothing,186.01
+399,Jacket_399,Clothing,80.04
+400,Dress_400,Clothing,153.99
+401,Pizza_401,Food,20.61
+402,Pasta_402,Food,20.99
+403,Pasta_403,Food,15.63
+404,Chocolate_404,Food,17.41
+405,Pizza_405,Food,33.16
+406,Salad_406,Food,45.07
+407,Pizza_407,Food,47.49
+408,Pasta_408,Food,15.15
+409,Pasta_409,Food,45.37
+410,Juice_410,Food,11.18
+411,Juice_411,Food,22.2
+412,Juice_412,Food,32.56
+413,Juice_413,Food,35.89
+414,Salad_414,Food,15.82
+415,Burger_415,Food,24.19
+416,Pasta_416,Food,45.94
+417,Pasta_417,Food,25.21
+418,Burger_418,Food,14.3
+419,Burger_419,Food,31.15
+420,Juice_420,Food,41.0
+421,Burger_421,Food,18.9
+422,Juice_422,Food,45.44
+423,Burger_423,Food,24.35
+424,Burger_424,Food,34.53
+425,Chocolate_425,Food,46.27
+426,Pasta_426,Food,8.05
+427,Chocolate_427,Food,47.69
+428,Pizza_428,Food,13.29
+429,Burger_429,Food,37.72
+430,Pasta_430,Food,44.61
+431,Salad_431,Food,48.25
+432,Pasta_432,Food,24.94
+433,Juice_433,Food,47.0
+434,Pasta_434,Food,11.84
+435,Burger_435,Food,9.8
+436,Burger_436,Food,6.18
+437,Chocolate_437,Food,32.76
+438,Chocolate_438,Food,30.52
+439,Burger_439,Food,31.84
+440,Burger_440,Food,35.93
+441,Pasta_441,Food,8.58
+442,Salad_442,Food,11.03
+443,Chocolate_443,Food,26.09
+444,Juice_444,Food,21.83
+445,Salad_445,Food,27.12
+446,Burger_446,Food,12.37
+447,Burger_447,Food,6.45
+448,Pizza_448,Food,46.64
+449,Salad_449,Food,15.01
+450,Juice_450,Food,49.47
+451,Burger_451,Food,7.98
+452,Salad_452,Food,44.02
+453,Salad_453,Food,35.95
+454,Salad_454,Food,44.94
+455,Salad_455,Food,23.22
+456,Pizza_456,Food,32.36
+457,Salad_457,Food,37.41
+458,Salad_458,Food,32.52
+459,Juice_459,Food,30.74
+460,Chocolate_460,Food,28.64
+461,Juice_461,Food,40.41
+462,Chocolate_462,Food,9.92
+463,Salad_463,Food,42.22
+464,Pizza_464,Food,44.5
+465,Burger_465,Food,28.34
+466,Salad_466,Food,49.27
+467,Pizza_467,Food,30.1
+468,Chocolate_468,Food,39.43
+469,Pizza_469,Food,13.54
+470,Salad_470,Food,22.91
+471,Pasta_471,Food,39.82
+472,Pasta_472,Food,25.76
+473,Salad_473,Food,18.25
+474,Pizza_474,Food,36.05
+475,Burger_475,Food,25.86
+476,Juice_476,Food,25.33
+477,Juice_477,Food,27.53
+478,Burger_478,Food,40.04
+479,Juice_479,Food,29.59
+480,Salad_480,Food,23.61
+481,Salad_481,Food,6.12
+482,Salad_482,Food,31.56
+483,Juice_483,Food,45.31
+484,Salad_484,Food,9.06
+485,Pasta_485,Food,36.13
+486,Juice_486,Food,40.84
+487,Juice_487,Food,38.0
+488,Pizza_488,Food,10.14
+489,Salad_489,Food,33.53
+490,Pizza_490,Food,28.57
+491,Salad_491,Food,37.71
+492,Chocolate_492,Food,32.54
+493,Burger_493,Food,22.04
+494,Salad_494,Food,6.98
+495,Burger_495,Food,46.05
+496,Chocolate_496,Food,44.21
+497,Burger_497,Food,12.3
+498,Burger_498,Food,13.05
+499,Juice_499,Food,7.31
+500,Pasta_500,Food,18.93
+501,Salad_501,Food,18.0
+502,Burger_502,Food,10.29
+503,Burger_503,Food,48.22
+504,Pizza_504,Food,33.02
+505,Pasta_505,Food,5.55
+506,Salad_506,Food,43.49
+507,Chocolate_507,Food,41.34
+508,Chocolate_508,Food,44.72
+509,Burger_509,Food,14.76
+510,Juice_510,Food,26.41
+511,Salad_511,Food,24.88
+512,Chocolate_512,Food,32.0
+513,Burger_513,Food,44.7
+514,Pasta_514,Food,32.89
+515,Chocolate_515,Food,41.91
+516,Burger_516,Food,7.2
+517,Burger_517,Food,7.48
+518,Pasta_518,Food,6.65
+519,Pizza_519,Food,35.01
+520,Chocolate_520,Food,18.43
+521,Pizza_521,Food,7.21
+522,Salad_522,Food,49.72
+523,Burger_523,Food,35.24
+524,Chocolate_524,Food,34.74
+525,Juice_525,Food,31.77
+526,Chocolate_526,Food,12.98
+527,Salad_527,Food,38.72
+528,Pasta_528,Food,46.92
+529,Pizza_529,Food,39.58
+530,Pasta_530,Food,21.59
+531,Salad_531,Food,41.91
+532,Salad_532,Food,42.95
+533,Pizza_533,Food,18.18
+534,Burger_534,Food,10.49
+535,Pasta_535,Food,19.81
+536,Salad_536,Food,28.61
+537,Juice_537,Food,14.41
+538,Pizza_538,Food,9.92
+539,Juice_539,Food,49.07
+540,Chocolate_540,Food,49.42
+541,Salad_541,Food,37.58
+542,Chocolate_542,Food,47.03
+543,Juice_543,Food,17.92
+544,Chocolate_544,Food,43.15
+545,Pasta_545,Food,28.64
+546,Chocolate_546,Food,20.92
+547,Burger_547,Food,32.64
+548,Salad_548,Food,28.39
+549,Juice_549,Food,27.4
+550,Burger_550,Food,44.76
+551,Burger_551,Food,36.89
+552,Burger_552,Food,5.07
+553,Pizza_553,Food,25.92
+554,Pizza_554,Food,38.19
+555,Burger_555,Food,40.98
+556,Salad_556,Food,23.63
+557,Pasta_557,Food,20.73
+558,Juice_558,Food,14.56
+559,Juice_559,Food,14.05
+560,Pasta_560,Food,16.45
+561,Pizza_561,Food,18.85
+562,Chocolate_562,Food,29.75
+563,Pizza_563,Food,10.12
+564,Pasta_564,Food,20.36
+565,Juice_565,Food,30.6
+566,Pizza_566,Food,42.44
+567,Burger_567,Food,19.87
+568,Pasta_568,Food,46.5
+569,Salad_569,Food,46.23
+570,Pizza_570,Food,34.05
+571,Salad_571,Food,11.99
+572,Salad_572,Food,45.14
+573,Chocolate_573,Food,45.32
+574,Salad_574,Food,40.28
+575,Salad_575,Food,46.75
+576,Pizza_576,Food,42.58
+577,Pasta_577,Food,30.42
+578,Juice_578,Food,19.2
+579,Chocolate_579,Food,5.84
+580,Chocolate_580,Food,35.85
+581,Pasta_581,Food,7.98
+582,Burger_582,Food,17.62
+583,Pizza_583,Food,20.26
+584,Salad_584,Food,33.19
+585,Burger_585,Food,30.69
+586,Salad_586,Food,13.43
+587,Pizza_587,Food,43.91
+588,Pasta_588,Food,36.74
+589,Pasta_589,Food,36.94
+590,Pasta_590,Food,23.62
+591,Salad_591,Food,44.47
+592,Pasta_592,Food,25.34
+593,Pasta_593,Food,14.73
+594,Pasta_594,Food,12.88
+595,Pasta_595,Food,40.32
+596,Burger_596,Food,46.1
+597,Salad_597,Food,27.77
+598,Salad_598,Food,45.72
+599,Burger_599,Food,13.56
+600,Salad_600,Food,37.96
+601,Children Book_601,Books,31.73
+602,Science Book_602,Books,20.03
+603,Novel_603,Books,67.55
+604,Children Book_604,Books,57.37
+605,Biography_605,Books,24.36
+606,Novel_606,Books,42.16
+607,Children Book_607,Books,18.11
+608,Science Book_608,Books,75.26
+609,Children Book_609,Books,71.03
+610,Science Book_610,Books,42.68
+611,Novel_611,Books,17.22
+612,Science Book_612,Books,11.57
+613,Science Book_613,Books,54.72
+614,Biography_614,Books,32.46
+615,Biography_615,Books,30.06
+616,Children Book_616,Books,32.34
+617,History Book_617,Books,56.98
+618,Science Book_618,Books,20.45
+619,Science Book_619,Books,18.01
+620,Children Book_620,Books,49.17
+621,Novel_621,Books,24.46
+622,Science Book_622,Books,48.46
+623,Science Book_623,Books,19.91
+624,Science Book_624,Books,50.19
+625,Biography_625,Books,14.99
+626,Children Book_626,Books,72.46
+627,Children Book_627,Books,41.06
+628,Biography_628,Books,12.03
+629,Novel_629,Books,17.41
+630,Novel_630,Books,16.03
+631,History Book_631,Books,22.53
+632,Children Book_632,Books,72.39
+633,History Book_633,Books,53.14
+634,Science Book_634,Books,33.26
+635,Biography_635,Books,59.9
+636,Children Book_636,Books,15.5
+637,History Book_637,Books,49.75
+638,Novel_638,Books,66.9
+639,History Book_639,Books,16.81
+640,Science Book_640,Books,57.91
+641,History Book_641,Books,42.94
+642,Biography_642,Books,20.06
+643,Children Book_643,Books,28.06
+644,Science Book_644,Books,37.45
+645,Science Book_645,Books,65.21
+646,Science Book_646,Books,41.73
+647,Novel_647,Books,14.58
+648,Novel_648,Books,34.6
+649,History Book_649,Books,69.2
+650,Science Book_650,Books,63.76
+651,Children Book_651,Books,50.23
+652,Children Book_652,Books,17.21
+653,Novel_653,Books,32.81
+654,Novel_654,Books,65.47
+655,Children Book_655,Books,42.27
+656,Children Book_656,Books,38.94
+657,Children Book_657,Books,27.06
+658,Biography_658,Books,78.17
+659,History Book_659,Books,14.62
+660,Biography_660,Books,66.97
+661,Children Book_661,Books,40.18
+662,History Book_662,Books,49.7
+663,Science Book_663,Books,48.12
+664,Biography_664,Books,22.12
+665,Novel_665,Books,61.76
+666,Children Book_666,Books,68.57
+667,Novel_667,Books,51.45
+668,History Book_668,Books,32.78
+669,Novel_669,Books,67.54
+670,Biography_670,Books,31.56
+671,History Book_671,Books,14.87
+672,Novel_672,Books,57.99
+673,Children Book_673,Books,63.99
+674,History Book_674,Books,32.92
+675,Novel_675,Books,16.34
+676,Biography_676,Books,72.11
+677,Novel_677,Books,63.0
+678,Biography_678,Books,41.71
+679,Science Book_679,Books,37.3
+680,Children Book_680,Books,41.3
+681,Biography_681,Books,57.71
+682,Science Book_682,Books,30.98
+683,Science Book_683,Books,74.3
+684,History Book_684,Books,60.25
+685,Science Book_685,Books,79.32
+686,Children Book_686,Books,10.57
+687,Children Book_687,Books,38.29
+688,Biography_688,Books,69.68
+689,Novel_689,Books,35.85
+690,Children Book_690,Books,77.75
+691,Novel_691,Books,59.23
+692,Science Book_692,Books,17.68
+693,Science Book_693,Books,70.6
+694,Biography_694,Books,40.22
+695,Children Book_695,Books,37.6
+696,Science Book_696,Books,59.82
+697,History Book_697,Books,36.71
+698,Children Book_698,Books,24.79
+699,Biography_699,Books,43.24
+700,Biography_700,Books,48.88
+701,Science Book_701,Books,68.8
+702,Biography_702,Books,30.19
+703,Biography_703,Books,19.4
+704,Novel_704,Books,55.39
+705,Biography_705,Books,60.49
+706,History Book_706,Books,56.05
+707,Biography_707,Books,15.93
+708,History Book_708,Books,70.21
+709,Children Book_709,Books,75.12
+710,Children Book_710,Books,22.59
+711,Children Book_711,Books,39.69
+712,History Book_712,Books,36.93
+713,Biography_713,Books,23.01
+714,Children Book_714,Books,10.52
+715,History Book_715,Books,69.28
+716,Biography_716,Books,59.85
+717,Science Book_717,Books,38.76
+718,Children Book_718,Books,50.34
+719,Novel_719,Books,78.48
+720,Children Book_720,Books,43.83
+721,Science Book_721,Books,17.92
+722,History Book_722,Books,77.32
+723,Novel_723,Books,19.95
+724,Children Book_724,Books,78.85
+725,Science Book_725,Books,42.55
+726,Novel_726,Books,46.63
+727,Children Book_727,Books,16.19
+728,History Book_728,Books,54.15
+729,Novel_729,Books,57.89
+730,Children Book_730,Books,65.87
+731,Science Book_731,Books,52.91
+732,Science Book_732,Books,47.45
+733,Novel_733,Books,42.82
+734,Children Book_734,Books,73.42
+735,Children Book_735,Books,61.37
+736,History Book_736,Books,34.7
+737,Science Book_737,Books,30.24
+738,Novel_738,Books,58.65
+739,Children Book_739,Books,62.46
+740,Children Book_740,Books,28.23
+741,History Book_741,Books,50.47
+742,Children Book_742,Books,13.61
+743,Science Book_743,Books,66.62
+744,Children Book_744,Books,11.91
+745,History Book_745,Books,15.78
+746,Children Book_746,Books,15.38
+747,Science Book_747,Books,27.64
+748,Children Book_748,Books,29.67
+749,Science Book_749,Books,10.99
+750,Novel_750,Books,52.27
+751,Children Book_751,Books,61.73
+752,History Book_752,Books,35.88
+753,Biography_753,Books,28.29
+754,Biography_754,Books,43.94
+755,Children Book_755,Books,70.34
+756,Science Book_756,Books,78.89
+757,Biography_757,Books,51.69
+758,Biography_758,Books,68.63
+759,History Book_759,Books,63.93
+760,Biography_760,Books,56.25
+761,Biography_761,Books,24.76
+762,Science Book_762,Books,13.8
+763,Science Book_763,Books,62.88
+764,Novel_764,Books,13.68
+765,History Book_765,Books,37.91
+766,Science Book_766,Books,43.34
+767,Children Book_767,Books,26.36
+768,History Book_768,Books,43.22
+769,Biography_769,Books,47.13
+770,History Book_770,Books,10.83
+771,History Book_771,Books,36.74
+772,Science Book_772,Books,77.32
+773,Novel_773,Books,16.82
+774,Children Book_774,Books,54.62
+775,History Book_775,Books,52.73
+776,Science Book_776,Books,33.45
+777,Science Book_777,Books,66.16
+778,Science Book_778,Books,55.8
+779,History Book_779,Books,42.28
+780,Biography_780,Books,61.4
+781,Children Book_781,Books,63.93
+782,Children Book_782,Books,33.62
+783,Biography_783,Books,31.93
+784,Novel_784,Books,57.1
+785,Novel_785,Books,10.84
+786,Novel_786,Books,46.77
+787,History Book_787,Books,34.61
+788,Science Book_788,Books,27.63
+789,Novel_789,Books,11.66
+790,Novel_790,Books,13.98
+791,Children Book_791,Books,55.96
+792,Biography_792,Books,76.53
+793,Novel_793,Books,59.57
+794,Novel_794,Books,16.05
+795,Children Book_795,Books,19.09
+796,Children Book_796,Books,66.22
+797,Biography_797,Books,72.72
+798,Biography_798,Books,27.73
+799,History Book_799,Books,56.23
+800,Novel_800,Books,54.71
+801,Chair_801,Furniture,792.42
+802,Desk_802,Furniture,913.05
+803,Chair_803,Furniture,331.6
+804,Sofa_804,Furniture,349.56
+805,Sofa_805,Furniture,444.52
+806,Chair_806,Furniture,996.36
+807,Chair_807,Furniture,960.05
+808,Chair_808,Furniture,260.14
+809,Sofa_809,Furniture,542.55
+810,Table_810,Furniture,649.27
+811,Table_811,Furniture,680.93
+812,Sofa_812,Furniture,229.49
+813,Bed_813,Furniture,296.55
+814,Desk_814,Furniture,195.62
+815,Bed_815,Furniture,743.86
+816,Sofa_816,Furniture,131.37
+817,Sofa_817,Furniture,614.21
+818,Chair_818,Furniture,799.51
+819,Sofa_819,Furniture,906.86
+820,Table_820,Furniture,687.58
+821,Sofa_821,Furniture,939.6
+822,Desk_822,Furniture,451.44
+823,Table_823,Furniture,730.05
+824,Bed_824,Furniture,617.18
+825,Wardrobe_825,Furniture,736.85
+826,Bed_826,Furniture,530.33
+827,Bed_827,Furniture,859.64
+828,Sofa_828,Furniture,586.12
+829,Sofa_829,Furniture,445.98
+830,Desk_830,Furniture,836.18
+831,Bed_831,Furniture,209.08
+832,Wardrobe_832,Furniture,941.54
+833,Chair_833,Furniture,400.1
+834,Chair_834,Furniture,460.55
+835,Desk_835,Furniture,997.31
+836,Desk_836,Furniture,181.6
+837,Wardrobe_837,Furniture,868.01
+838,Chair_838,Furniture,172.41
+839,Bed_839,Furniture,784.41
+840,Chair_840,Furniture,683.01
+841,Table_841,Furniture,599.03
+842,Bed_842,Furniture,694.66
+843,Chair_843,Furniture,726.29
+844,Sofa_844,Furniture,667.56
+845,Chair_845,Furniture,537.85
+846,Desk_846,Furniture,494.19
+847,Table_847,Furniture,225.95
+848,Table_848,Furniture,122.83
+849,Wardrobe_849,Furniture,314.64
+850,Bed_850,Furniture,156.69
+851,Wardrobe_851,Furniture,679.07
+852,Bed_852,Furniture,580.55
+853,Bed_853,Furniture,969.92
+854,Sofa_854,Furniture,133.34
+855,Sofa_855,Furniture,403.95
+856,Desk_856,Furniture,138.53
+857,Sofa_857,Furniture,290.51
+858,Desk_858,Furniture,700.58
+859,Bed_859,Furniture,946.08
+860,Wardrobe_860,Furniture,234.06
+861,Wardrobe_861,Furniture,309.69
+862,Sofa_862,Furniture,133.19
+863,Table_863,Furniture,540.01
+864,Sofa_864,Furniture,524.1
+865,Wardrobe_865,Furniture,141.22
+866,Desk_866,Furniture,683.91
+867,Sofa_867,Furniture,255.02
+868,Sofa_868,Furniture,914.2
+869,Sofa_869,Furniture,510.57
+870,Table_870,Furniture,851.82
+871,Sofa_871,Furniture,836.02
+872,Sofa_872,Furniture,202.76
+873,Wardrobe_873,Furniture,819.26
+874,Table_874,Furniture,156.8
+875,Table_875,Furniture,483.59
+876,Desk_876,Furniture,710.56
+877,Chair_877,Furniture,208.72
+878,Desk_878,Furniture,618.37
+879,Table_879,Furniture,389.43
+880,Table_880,Furniture,787.81
+881,Wardrobe_881,Furniture,256.1
+882,Sofa_882,Furniture,208.67
+883,Table_883,Furniture,781.8
+884,Table_884,Furniture,726.67
+885,Wardrobe_885,Furniture,248.51
+886,Table_886,Furniture,933.11
+887,Sofa_887,Furniture,220.03
+888,Desk_888,Furniture,651.2
+889,Table_889,Furniture,114.07
+890,Bed_890,Furniture,172.65
+891,Sofa_891,Furniture,261.47
+892,Sofa_892,Furniture,736.07
+893,Wardrobe_893,Furniture,898.22
+894,Bed_894,Furniture,724.15
+895,Bed_895,Furniture,723.12
+896,Table_896,Furniture,228.78
+897,Chair_897,Furniture,570.78
+898,Bed_898,Furniture,315.33
+899,Table_899,Furniture,649.48
+900,Sofa_900,Furniture,636.64
+901,Desk_901,Furniture,549.9
+902,Sofa_902,Furniture,664.47
+903,Chair_903,Furniture,413.07
+904,Sofa_904,Furniture,601.94
+905,Table_905,Furniture,205.76
+906,Wardrobe_906,Furniture,979.11
+907,Wardrobe_907,Furniture,425.71
+908,Wardrobe_908,Furniture,556.79
+909,Bed_909,Furniture,793.3
+910,Desk_910,Furniture,287.3
+911,Sofa_911,Furniture,274.35
+912,Table_912,Furniture,716.72
+913,Bed_913,Furniture,547.76
+914,Table_914,Furniture,703.13
+915,Sofa_915,Furniture,148.62
+916,Chair_916,Furniture,356.56
+917,Bed_917,Furniture,326.24
+918,Wardrobe_918,Furniture,824.64
+919,Bed_919,Furniture,138.99
+920,Desk_920,Furniture,147.21
+921,Wardrobe_921,Furniture,258.3
+922,Sofa_922,Furniture,536.56
+923,Sofa_923,Furniture,163.77
+924,Table_924,Furniture,749.26
+925,Wardrobe_925,Furniture,621.79
+926,Bed_926,Furniture,278.88
+927,Desk_927,Furniture,908.54
+928,Table_928,Furniture,801.08
+929,Chair_929,Furniture,305.0
+930,Table_930,Furniture,763.97
+931,Table_931,Furniture,437.98
+932,Table_932,Furniture,166.18
+933,Wardrobe_933,Furniture,535.97
+934,Bed_934,Furniture,230.45
+935,Wardrobe_935,Furniture,509.49
+936,Bed_936,Furniture,436.14
+937,Bed_937,Furniture,747.84
+938,Desk_938,Furniture,422.73
+939,Chair_939,Furniture,281.99
+940,Table_940,Furniture,128.89
+941,Wardrobe_941,Furniture,153.69
+942,Table_942,Furniture,200.0
+943,Bed_943,Furniture,512.72
+944,Table_944,Furniture,784.31
+945,Table_945,Furniture,897.77
+946,Wardrobe_946,Furniture,241.11
+947,Desk_947,Furniture,957.48
+948,Table_948,Furniture,620.31
+949,Wardrobe_949,Furniture,869.5
+950,Sofa_950,Furniture,470.53
+951,Wardrobe_951,Furniture,540.29
+952,Table_952,Furniture,632.42
+953,Bed_953,Furniture,351.25
+954,Desk_954,Furniture,485.3
+955,Table_955,Furniture,323.05
+956,Bed_956,Furniture,621.52
+957,Wardrobe_957,Furniture,951.63
+958,Wardrobe_958,Furniture,908.43
+959,Bed_959,Furniture,982.17
+960,Sofa_960,Furniture,992.15
+961,Desk_961,Furniture,791.75
+962,Sofa_962,Furniture,483.13
+963,Bed_963,Furniture,531.34
+964,Desk_964,Furniture,839.16
+965,Bed_965,Furniture,545.76
+966,Sofa_966,Furniture,602.64
+967,Sofa_967,Furniture,723.84
+968,Bed_968,Furniture,954.94
+969,Table_969,Furniture,422.57
+970,Table_970,Furniture,682.88
+971,Sofa_971,Furniture,114.34
+972,Desk_972,Furniture,374.35
+973,Desk_973,Furniture,513.35
+974,Wardrobe_974,Furniture,772.56
+975,Sofa_975,Furniture,978.78
+976,Bed_976,Furniture,794.65
+977,Desk_977,Furniture,464.82
+978,Chair_978,Furniture,664.13
+979,Desk_979,Furniture,670.06
+980,Desk_980,Furniture,163.63
+981,Desk_981,Furniture,399.62
+982,Sofa_982,Furniture,366.93
+983,Chair_983,Furniture,728.25
+984,Wardrobe_984,Furniture,588.19
+985,Table_985,Furniture,808.92
+986,Sofa_986,Furniture,658.41
+987,Chair_987,Furniture,762.18
+988,Sofa_988,Furniture,563.26
+989,Desk_989,Furniture,427.59
+990,Sofa_990,Furniture,199.87
+991,Chair_991,Furniture,518.82
+992,Sofa_992,Furniture,429.01
+993,Table_993,Furniture,683.36
+994,Desk_994,Furniture,160.31
+995,Desk_995,Furniture,796.22
+996,Table_996,Furniture,983.13
+997,Table_997,Furniture,585.67
+998,Desk_998,Furniture,530.64
+999,Wardrobe_999,Furniture,884.02
+1000,Desk_1000,Furniture,288.81

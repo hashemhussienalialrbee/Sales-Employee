@@ -1,0 +1,4 @@
+Quantity,ProductName,EmployeeName,CustomerName,Price_x,Department,SaleMonth,Predicted_TotalAmount
+5,Product_1,Employee_1,Customer_1,100,Sales,9,400.9744
+10,Product_5,Employee_2,Customer_2,250,Marketing,10,1003.3440000000006
+3,Product_10,Employee_3,Customer_3,75,Support,11,225.97500000000002
